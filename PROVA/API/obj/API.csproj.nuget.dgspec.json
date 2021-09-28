@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\squal\\OneDrive\\0. Análise e Desenvolvimento de Sistemas\\2021\\Segundo semestre\\Desenvolvimento de Software Visual\\ads-dev-visual-prova\\API\\API.csproj": {}
+    "C:\\Users\\squal\\source\\repos\\PROVA\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\squal\\OneDrive\\0. Análise e Desenvolvimento de Sistemas\\2021\\Segundo semestre\\Desenvolvimento de Software Visual\\ads-dev-visual-prova\\API\\API.csproj": {
+    "C:\\Users\\squal\\source\\repos\\PROVA\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\squal\\OneDrive\\0. Análise e Desenvolvimento de Sistemas\\2021\\Segundo semestre\\Desenvolvimento de Software Visual\\ads-dev-visual-prova\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\squal\\source\\repos\\PROVA\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\squal\\OneDrive\\0. Análise e Desenvolvimento de Sistemas\\2021\\Segundo semestre\\Desenvolvimento de Software Visual\\ads-dev-visual-prova\\API\\API.csproj",
+        "projectPath": "C:\\Users\\squal\\source\\repos\\PROVA\\API\\API.csproj",
         "packagesPath": "C:\\Users\\squal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\squal\\OneDrive\\0. Análise e Desenvolvimento de Sistemas\\2021\\Segundo semestre\\Desenvolvimento de Software Visual\\ads-dev-visual-prova\\API\\obj\\",
+        "outputPath": "C:\\Users\\squal\\source\\repos\\PROVA\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\squal\\AppData\\Roaming\\NuGet\\NuGet.Config",

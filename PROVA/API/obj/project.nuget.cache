@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QErU2t4UxxTMlybhkUHB8DG+pTMJ/yWbrh0eAMBASAPAg9JIeATFDAE9t2WIxyES/+sJ0UQv0g/2iLtbp7xSow==",
+  "dgSpecHash": "8KrChrosjCu+WqVi7lkUJ4ShPOsY/9gKGEF3EL1z9yW0IzalpAXvV1CCRKy1b/dcqoDxzd7ltKkmgFTnborn4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\squal\\OneDrive\\0. Análise e Desenvolvimento de Sistemas\\2021\\Segundo semestre\\Desenvolvimento de Software Visual\\ads-dev-visual-prova\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\squal\\source\\repos\\PROVA\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\squal\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\squal\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
