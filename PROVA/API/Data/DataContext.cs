@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using API.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace API.Data
 {
@@ -8,6 +9,8 @@ namespace API.Data
             : base(builderOptions)
         {
         }
+
+        public DbSet<Musica> Musica { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder builder)
         {
