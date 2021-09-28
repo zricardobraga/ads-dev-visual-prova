@@ -1,0 +1,11 @@
+<a routerLink="/musica/create">Registrar uma nova música</a>
+
+<ol>
+    <li *ngFor="let musica of musicas">
+        Id: {{ musica.id }}
+        Nome: {{ musica.nome }}
+        Artista: {{ musica.artista }}
+        Álbum: {{ musica.album }}
+        Gênero: {{ musica.genero }}
+    </li>
+</ol> 

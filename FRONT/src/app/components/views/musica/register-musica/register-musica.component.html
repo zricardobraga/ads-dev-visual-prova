@@ -1,0 +1,24 @@
+<div>
+    <label for="id">Id:</label>
+    <input type="text" name="id" [(ngModel)]="id" />
+</div>
+<div>
+    <label for="nome">Nome:</label>
+    <input type="text" name="nome" [(ngModel)]="nome" />
+</div>
+<div id="artista">
+    <label for="artista">Artista:</label>
+    <input type="text" name="artista" [(ngModel)]="artista" />
+</div>
+<div id="album">
+    <label for="album">Album:</label>
+    <input type="text" name="album" [(ngModel)]="album" />
+</div>
+<div id="genero">
+    <label for="genero">Genero:</label>
+    <input type="text" name="genero" [(ngModel)]="genero" />
+</div>
+<div id="botaoCadastrar">
+    <button (click)="create()">Registrar</button>
+</div>
+<a routerLink="/musica/list">Voltar para a lista de músicas</a>

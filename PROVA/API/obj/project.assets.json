@@ -740,11 +740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\squal\\source\\repos\\PROVA\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\squal\\source\\repos\\PROVA\\API\\API.csproj",
+      "projectPath": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
       "packagesPath": "C:\\Users\\squal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\squal\\source\\repos\\PROVA\\API\\obj\\",
+      "outputPath": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\squal\\AppData\\Roaming\\NuGet\\NuGet.Config",
