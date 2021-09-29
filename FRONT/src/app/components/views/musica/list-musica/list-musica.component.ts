@@ -1,11 +1,11 @@
-import { Component, OnInit } from '@angular/core';
-import { Musica } from '../../../../models/musica';
-import { MusicaService } from '../../../../services/musica.service';
+import { Component, OnInit } from "@angular/core";
+import { Musica } from "src/app/models/musica";
+import { MusicaService } from "src/app/services/musica.service";
 
 @Component({
-  selector: 'app-list-musica',
-  template: "./list-musica.component.html",
-  styles: ["./list-musica.component.css"],
+    selector: "app-list-musica",
+    templateUrl: "./list-musica.component.html",
+    styleUrls: ["./list-musica.component.css"],
 })
 export class ListMusicaComponent implements OnInit {
 
@@ -16,8 +16,9 @@ export class ListMusicaComponent implements OnInit {
     ngOnInit(): void {
         this.service.list().subscribe((musicas) => {
             this.musicas = musicas;
+            console.log("Teste");
         });
 
-  }
+    }
 
 }

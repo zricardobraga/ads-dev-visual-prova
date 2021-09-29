@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace API.Controllers
 {
-    [Route("Musica")]
+    [Route("api/musica")]
     [ApiController]
     public class MusicaController : ControllerBase
     {

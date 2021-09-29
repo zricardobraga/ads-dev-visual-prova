@@ -9,7 +9,7 @@ import { Musica } from "../models/musica";
 })
 export class MusicaService {
 
-    private baseURL = "http://localhost:5000/musica";
+    private baseURL = "http://localhost:5000/api/musica";
 
     constructor(private http: HttpClient) { }
 

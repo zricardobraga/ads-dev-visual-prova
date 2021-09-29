@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\views",
+    "\\src\\app\\components\\views\\musica",
+    "\\src\\app\\components\\views\\musica\\list-musica",
+    "\\src\\app\\components\\views\\musica\\register-musica",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\services\\musica.service.ts",
+  "PreviewInSolutionExplorer": false
+}

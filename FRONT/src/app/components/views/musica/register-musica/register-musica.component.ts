@@ -1,18 +1,16 @@
 import { error } from '@angular/compiler/src/util';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { create } from 'domain';
-import { Musica } from '../../../../models/musica';
-import { MusicaService } from '../../../../services/musica.service';
+import { Musica } from "src/app/models/musica";
+import { MusicaService } from "src/app/services/musica.service";
 
 @Component({
-  selector: 'app-register-musica',
-  template: "./register-musica.component.ts",
-  styles: ["./register-musica.component.css"]
+    selector: 'app-register-musica',
+    templateUrl: "./register-musica.component.html",
+    styleUrls: ["./register-musica.component.css"],
 })
 export class RegisterMusicaComponent implements OnInit {
 
-    id!: number;
     nome!: string;
     artista!: string;
     album!: string;
@@ -24,12 +22,12 @@ export class RegisterMusicaComponent implements OnInit {
 
     create(): void {
         let musica: Musica = {
-            id: this.id,
             nome: this.nome,
             artista: this.artista,
             album: this.album,
             genero: this.genero,
         };
-        this.service.create(musica).subscribe((musica) => { this.router.navigate(["musica/list"]) }, (error) => { });
+        this.service.create(musica).subscribe((musica) => { this.router.navigate(["musica/list"]) },
+            (error) => { });
     }
 }
