@@ -732,31 +732,24 @@
     "net5.0": [
       "Microsoft.EntityFrameworkCore >= 5.0.10",
       "Microsoft.EntityFrameworkCore.InMemory >= 5.0.10",
+      "Microsoft.OpenApi >= 1.2.3",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\squal\\.nuget\\packages\\": {}
+    "C:\\Users\\Igor_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
-      "projectName": "API",
-      "projectPath": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\squal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
       "projectName": "API",
       "projectPath": "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Igor_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\obj\\",
->>>>>>> c24e5211ba75929cdad0e8f521cf64de7c72b230
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\squal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Igor_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -790,6 +783,10 @@
             "target": "Package",
             "version": "[5.0.10, )"
           },
+          "Microsoft.OpenApi": {
+            "target": "Package",
+            "version": "[1.2.3, )"
+          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[5.6.3, )"
@@ -813,16 +810,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
