@@ -52,8 +52,11 @@ namespace API
 
             app.UseCors("CorsPolicy");
 
+<<<<<<< HEAD
             app.UseHttpsRedirection();
 
+=======
+>>>>>>> c24e5211ba75929cdad0e8f521cf64de7c72b230
             app.UseRouting();
 
             app.UseAuthorization();

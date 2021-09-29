@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Rlx1GsjQPMCy6UJEt/S0XAAbIxOQ2pPWPpKPOAVk73KgCMdCU99ONP8pf1mnaA3k1QXIA+4uPNIq0iwGHBPWQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
+=======
+  "dgSpecHash": "9xiOnGdxxujRXefP3mPgHM2diMHtiVxC1ASQrUmcJU1b+oRMvsKmpNZhg7AR7xcifUaQhImzjLqjvSYGrKbHCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
+>>>>>>> c24e5211ba75929cdad0e8f521cf64de7c72b230
   "expectedPackageFiles": [
     "C:\\Users\\squal\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\squal\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
@@ -26,5 +32,12 @@
     "C:\\Users\\squal\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\squal\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

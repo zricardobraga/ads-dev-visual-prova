@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\API.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
         "packagesPath": "C:\\Users\\squal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\squal\\source\\repos\\ads-dev-visual-prova\\PROVA\\API\\obj\\",
+=======
+    "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Igor_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor_\\Desktop\\prova1-diogo\\prova1-microsoft-ads2021\\Prova\\ads-dev-visual-prova\\PROVA\\API\\obj\\",
+>>>>>>> c24e5211ba75929cdad0e8f521cf64de7c72b230
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\squal\\AppData\\Roaming\\NuGet\\NuGet.Config",

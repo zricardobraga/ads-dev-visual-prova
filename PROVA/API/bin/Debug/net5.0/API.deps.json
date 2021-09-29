@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "API/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.10",
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.10",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -475,8 +476,21 @@
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         }
       },
+<<<<<<< HEAD
       "System.Collections.Immutable/5.0.0": {},
       "System.ComponentModel.Annotations/5.0.0": {},
+=======
+      "System.Collections.Immutable/5.0.0": {
+        "compile": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {
+        "compile": {
+          "ref/netstandard2.1/System.ComponentModel.Annotations.dll": {}
+        }
+      },
+>>>>>>> c24e5211ba75929cdad0e8f521cf64de7c72b230
       "System.Diagnostics.DiagnosticSource/5.0.1": {
         "runtime": {
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {
